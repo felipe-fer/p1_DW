@@ -1,0 +1,13 @@
+h1 {
+    height: 16px;
+    color: blue;
+}
+
+p {
+    text-justify: inherit;
+
+}
+
+.container{
+    justify-content: space-between;
+}
